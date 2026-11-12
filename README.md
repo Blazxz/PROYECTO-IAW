@@ -1,5 +1,11 @@
 <div>
-<img src="Pictures/Portada/logo_github.png" width="50"> 
+<p>
+<img src="Pictures/Portada/logo_github.png" width="50">
+<img src="Pictures/Portada/Logo-PHP.png" width="50">
+<img src="Pictures/Portada/Logo-SQL.png" width="50">
+<img src="Pictures/Portada/Logo-HTML.png" width="50">
+<img src="Pictures/Portada/Logo-CSS.png" width="50">
+</p> 
 </div>
 
 # PROYECTO-IAW
