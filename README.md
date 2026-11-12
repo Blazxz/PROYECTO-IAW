@@ -1,5 +1,5 @@
 <img src="Pictures.md/logo_github.png" width="50"> 
-# PROYECTO-IAW
+## PROYECTO-IAW
 Mini-Proyecto PHP + PDO + Seguridad
 
 ## Introducción
