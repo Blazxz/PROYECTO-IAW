@@ -40,6 +40,7 @@ productos o clientes (nombre, email, categoría, observaciones...).
 </div>
 
 <div>
+
 # Objetivos a realizar en este proyecto
 
 Posteriormente, se mencionarán los objetivos a realizar en el proyecto mencionado anteriormente.
