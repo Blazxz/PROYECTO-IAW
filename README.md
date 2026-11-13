@@ -1,12 +1,12 @@
 <div>
 <p>
-<img src="Pictures/Portada/logo_github.png" width="50">
-<img src="Pictures/Portada/Logo-PHP.png" width="50">
-<img src="Pictures/Portada/Logo-MySQL.png" width="50">
-<img src="Pictures/Portada/Logo-HTML.png" width="44">
-<img src="Pictures/Portada/Logo-CSS.png" width="50">
-<img src="Pictures/Portada/Logo-Linux.png" width="60">
-<img src="Pictures/Portada/Logo-Windows.png" width="50">
+<img src="Pictures/logo_github.png" width="50">
+<img src="Pictures/Logo-PHP.png" width="50">
+<img src="Pictures/Logo-MySQL.png" width="50">
+<img src="Pictures/Logo-HTML.png" width="44">
+<img src="Pictures/Logo-CSS.png" width="50">
+<img src="Pictures/Logo-Linux.png" width="60">
+<img src="Pictures/Logo-Windows.png" width="50">
 </p> 
 </div>
 
