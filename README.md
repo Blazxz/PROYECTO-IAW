@@ -23,7 +23,8 @@ En este proyecto, se creará una base de datos con el lenguaje de programación 
 </div>
 
 <div>
-  / (Raíz del proyecto)
+/ (Raíz del proyecto)
+  
 ├── bd.php # Conexión PDO, funciones de seguridad (e(), CSRF) y
 control de sesión
   
@@ -48,5 +49,6 @@ auditoría)
 ├── preferencia.php # Cambio de preferencia visual guardada en una Cookie
 
 ├── schema.sql # Script DDL para la creación de las tablas de la BD
+
 └── seed.sql # Datos iniciales de prueba (usuarios y registros)
 </div>
