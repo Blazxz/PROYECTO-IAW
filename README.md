@@ -26,13 +26,19 @@ En este proyecto, se creará una base de datos con el lenguaje de programación 
   / (Raíz del proyecto)
 ├── bd.php # Conexión PDO, funciones de seguridad (e(), CSRF) y
 control de sesión
+  
 ├── login.php # Formulario e inicio de sesión de usuarios
+
 ├── logout.php # Destrucción de la sesión activa
+
 ├── listar.php # Panel principal: Listado con filtro de búsqueda y
 paginación
+
 ├── ver.php # Ficha de detalle de un registro específico
+
 ├── crear.php # Formulario y procesador para añadir un nuevo registro
 (PRG + CSRF)
+
 ├── editar.php # Formulario y procesador para modificar un registro
 existente
 ├── borrar.php # Borrado mediante Transacción (beginTransaction +
