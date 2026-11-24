@@ -41,9 +41,12 @@ paginación
 
 ├── editar.php # Formulario y procesador para modificar un registro
 existente
+
 ├── borrar.php # Borrado mediante Transacción (beginTransaction +
 auditoría)
+
 ├── preferencia.php # Cambio de preferencia visual guardada en una Cookie
+
 ├── schema.sql # Script DDL para la creación de las tablas de la BD
 └── seed.sql # Datos iniciales de prueba (usuarios y registros)
 </div>
