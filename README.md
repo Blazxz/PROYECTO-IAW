@@ -52,3 +52,32 @@ auditoría)
 
 └── seed.sql # Datos iniciales de prueba (usuarios y registros)
 </div>
+
+Título, portada, integrantes, fecha del trabajo
+
+PROYECTO-IAW
+
+Samuel Garcerán López y Daniel Blázquez Marín
+
+26/11/2026 y 27/11/2026
+
+Tipo de proyecto: descripción /explicación de en que consiste tu
+mantenimiento.
+
+Configuración inicial realizada.
+
+Base de datos creada y tablas del proyecto.
+
+Funcionalidad del proyecto: traza de toda la funcionalidad (flujo que sigue
+el programa), desde login hasta el final con capturas de pantalla y
+explicando que hace.
+
+Nuevas funcionalidades añadidas: mejoras añadidas.
+
+Añadir una tabla de clientes con clientes, añadir una tabla de copias de seguridad donde almacenar los dumps y una tabla de productos donde se almacenan productos.
+
+Problemas encontrados y como se han solucionado.
+
+Se han encontrado los siguientes problemas: crear usuarios y asignarles permisos. Solución: dar todos los permisos mediante GRANT ALL PRIVILEGES.
+
+Ejecutables.
