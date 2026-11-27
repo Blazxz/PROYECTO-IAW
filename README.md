@@ -68,6 +68,8 @@ Configuración inicial realizada.
 
 Base de datos creada y tablas del proyecto.
 
+Hemos creado la base de datos 3D-SPECTRUM y las tablas que hay en el proyecto son auditoria, clientes, productos y copias de seguridad.
+
 Funcionalidad del proyecto: traza de toda la funcionalidad (flujo que sigue
 el programa), desde login hasta el final con capturas de pantalla y
 explicando que hace.
