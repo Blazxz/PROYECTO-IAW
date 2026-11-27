@@ -98,6 +98,6 @@ Añadir una tabla de clientes con clientes, añadir una tabla de copias de segur
 
 Problemas encontrados y como se han solucionado.
 
-Se han encontrado los siguientes problemas: crear usuarios y asignarles permisos. Solución: dar todos los permisos mediante GRANT ALL PRIVILEGES.
+Se han encontrado los siguientes problemas: crear usuarios y asignarles permisos. Solución: dar todos los permisos mediante GRANT ALL PRIVILEGES y aplicar los cambios con FLUSH PRIVILEGES.
 
 Ejecutables.
