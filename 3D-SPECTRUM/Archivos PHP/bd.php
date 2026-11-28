@@ -7,9 +7,9 @@ if (session_status() === PHP_SESSION_NONE) {
 // 1. Conexión PDO a la Base de Datos
 function conectarBD() {
     $host = 'localhost';
-    $db   = 'mini_proyecto';
-    $user = 'root';
-    $pass = 'Admin2627'; // Adaptar contraseña de MySQL según entorno
+    $db   = '3D_SPECTRUM';
+    $user = 'Administrador';
+    $pass = 'AdminASIR27'; // Adaptar contraseña de MySQL según entorno
     $charset = 'utf8mb4';
 
     $dsn = "mysql:host={$host};dbname={$db};charset={$charset}";

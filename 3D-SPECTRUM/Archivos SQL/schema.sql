@@ -23,3 +23,20 @@ CREATE TABLE IF NOT EXISTS auditoria (
     detalle VARCHAR(255) NOT NULL,
     fecha DATETIME DEFAULT CURRENT_TIMESTAMP
 ) ENGINE=InnoDB;
+
+-- Tabla de productos de 3D Spectrum 
+CREATE TABLE IF NOT EXISTS productos (
+    id INT AUTO_INCREMENT,
+    nombre VARCHAR(200) NOT NULL,
+    numero_serie VARCHAR(200) NOT NULL,
+    fecha DATETIME DEFAULT CURRENT_TIMESTAMP,
+    CONSTRAINT productos_id_KEY PRIMARY KEY (id)
+)ENGINE=InnoDB;
+
+-- Tabla de copias de seguridad de 3D Spectrum
+CREATE TABLE IF NOT EXISTS copias_seguridad (
+    id INT AUTO_INCREMENT,
+    nombre VARCHAR(200) NOT NULL,
+    fecha DATETIME DEFAULT CURRENT_TIMESTAMP,
+    CONSTRAINT cop_seg_id_KEY PRIMARY KEY (id)
+)ENGINE=InnoDB;

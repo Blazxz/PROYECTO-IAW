@@ -1,6 +1,7 @@
 <?php
 require_once "bd.php";
-requerir_login(); // Protección de ruta
+requerir_login(
+); // Protección de ruta
 
 $conexion = conectarBD();
 
